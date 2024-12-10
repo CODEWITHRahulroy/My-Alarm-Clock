@@ -1,5 +1,7 @@
 # MyAlarmApp  
 **Developed by Rahul Roy**
+## Check the master branch for the code
+
 
 ## Aim of the Project  
 The aim of the **MyAlarmApp** is to provide users with a functional and engaging alarm application for Android devices. Below are the key objectives:  
